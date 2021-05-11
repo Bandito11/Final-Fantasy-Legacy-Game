@@ -8,8 +8,7 @@ null,
 {"id":6,"atypeId":4,"description":"Tienne's standard Dragoon Helmet. Offer some \nprotection against magik.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Tienne's Dragoon Helmet","note":"","params":[0,0,0,3,0,1,0,0],"price":100},
 {"id":7,"atypeId":1,"description":"A necklace given to you by a sweetheart. For some\nreason it slightly raises evasion.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0.01}],"iconIndex":146,"name":"Necklace","note":"","params":[0,0,0,0,0,0,0,0],"price":25},
 {"id":8,"atypeId":4,"description":"Given to Dragoon Knights when they graduate. It was\nsanctified by the High Priest himself.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Tienne's Dragoon ring","note":"","params":[0,0,0,0,0,0,0,3],"price":350},
-{"id":9,"atypeId":1,"description":"Worn by women as decoration for their ears. It \nslightly raises evasion.","etypeId":4,"traits":[{"code":22,"dataId":3,"value":0.03}],"iconIndex":147,"name":"Earrings","note":"","params":[0,0,0,0,0,0,0,0],"price":100},
+{"id":9,"atypeId":1,"description":"Worn as decoration for their ears. It slightly raises \nevasion.","etypeId":4,"traits":[{"code":22,"dataId":3,"value":0.03}],"iconIndex":147,"name":"Earrings","note":"","params":[0,0,0,0,0,0,0,0],"price":100},
 {"id":10,"atypeId":1,"description":"Common boots worn by the plebes.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":140,"name":"Boots","note":"","params":[0,0,0,1,0,0,0,0],"price":15},
-{"id":11,"atypeId":1,"description":"A helmet that slightly protects the head from \nattacks.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":131,"name":"Wooden helmet","note":"","params":[0,0,0,2,0,0,0,0],"price":12},
-{"id":12,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+{"id":11,"atypeId":1,"description":"A helmet that slightly protects the head from \nattacks.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":131,"name":"Wooden helmet","note":"","params":[0,0,0,2,0,0,0,0],"price":12}
 ]
