@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": ".",
+    "public": "Output/Game",
     "ignore": [
       "firebase.json",
       "**/.*",
@@ -8,7 +8,7 @@
     ],
     "rewrites": [
       {
-        "source": "Output/Final Fantasy Legacy",
+        "source": "Output/Game",
         "destination": "/index.html"
       }
     ]
