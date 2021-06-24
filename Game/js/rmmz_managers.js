@@ -2105,6 +2105,12 @@ SceneManager.updateScene = function() {
 };
 
 SceneManager.isGameActive = function() {
+    if (
+        navigator.userAgent.toLowerCase().match('iphone') ||
+        navigator.userAgent.toLowerCase().match('android')
+      ) {
+        return true;
+      }
     // [Note] We use "window.top" to support an iframe.
     try {
         return window.top.document.hasFocus();
