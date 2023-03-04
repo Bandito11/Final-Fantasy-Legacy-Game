@@ -5,13 +5,14 @@
 https://rpgmaker.net/games/11799/
 
 Play Online
-https://final-fantasy-legacy.web.app
 
-https://bandito11.github.io/Final-Fantasy-Legacy-Game/
+- https://final-fantasy-legacy.web.app
+
+- https://bandito11.github.io/Final-Fantasy-Legacy-Game/
 
 ## Link to FFL Fanfic the game is based on.
 
-https://www.improfanfic.com/ffleg/
+- https://www.improfanfic.com/ffleg/
 
 
 
